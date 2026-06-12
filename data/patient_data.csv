@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Diagnosis,Hospital,Admission_Date,Discharge_Date,Treatment_Cost
+1001,45,Male,Diabetes,Northside Hospital,2025-01-05,2025-01-10,4500
+1002,60,Female,Heart Disease,Northside Hospital,2025-01-08,2025-01-15,12000
+1003,35,Male,Asthma,Emory Hospital,2025-02-01,2025-02-05,3000
+1004,72,Female,Hypertension,Piedmont Hospital,2025-02-10,2025-02-18,8500
+1005,50,Male,Diabetes,Emory Hospital,2025-03-01,2025-03-06,5000
+1006,41,Female,Asthma,Northside Hospital,2025-03-10,2025-03-12,2500
+1007,65,Male,Heart Disease,Piedmont Hospital,2025-03-15,2025-03-22,14000
+1008,58,Female,Hypertension,Northside Hospital,2025-04-01,2025-04-08,7800
+1009,48,Male,Diabetes,Emory Hospital,2025-04-10,2025-04-15,5200
+1010,70,Female,Heart Disease,Piedmont Hospital,2025-04-20,2025-04-28,15000
